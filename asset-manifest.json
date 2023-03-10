@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lenza-test/static/css/main.0e4be20c.css",
+    "main.js": "/lenza-test/static/js/main.9e988432.js",
+    "static/media/Chat.svg": "/lenza-test/static/media/Chat.5293c5827cc2775a3c58c393e6bfefe9.svg",
+    "index.html": "/lenza-test/index.html",
+    "static/media/ReadMessage.svg": "/lenza-test/static/media/ReadMessage.dc8e06473a13594289cb.svg",
+    "static/media/AttachIcon.svg": "/lenza-test/static/media/AttachIcon.ac2becdc5c54cd73684e52228df97a8c.svg",
+    "static/media/SendIcon.svg": "/lenza-test/static/media/SendIcon.d2652891fbf864a165e5c859caab8abf.svg",
+    "main.0e4be20c.css.map": "/lenza-test/static/css/main.0e4be20c.css.map",
+    "main.9e988432.js.map": "/lenza-test/static/js/main.9e988432.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e4be20c.css",
+    "static/js/main.9e988432.js"
+  ]
+}
