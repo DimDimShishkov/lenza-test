@@ -1,0 +1,11 @@
+.page-index {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+}
