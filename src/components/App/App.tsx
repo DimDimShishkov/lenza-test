@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { PageIndex } from "../../pages/index";
 import { MobileWight } from "../../utils/wrapper";
-import "./App.css";
+import "./App.scss";
 
 /**
  *
