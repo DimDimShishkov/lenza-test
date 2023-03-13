@@ -1,5 +1,7 @@
 # Тестовое задание для компании Lenza OS
 
+![image](https://raw.githubusercontent.com/DimDimShishkov/lenza-test/main/src/images/screenshot.png)
+
 ### Обзор
 
 - Описание
@@ -45,11 +47,12 @@
 ## Инструкция по копированию
 
 ```
-
+скопировать проект
 git clone git@github.com:DimDimShishkov/lenza-test.git
 
+установить зависимости
 npm i
 
+запустить проект
 npm run start
-
 ```
